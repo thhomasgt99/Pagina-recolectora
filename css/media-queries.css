@@ -26,5 +26,26 @@
     .blogs-posts-container .posts-container{
         max-width: 95%;
     }
-    
+    .contact-main-container {
+        display: flex;
+        padding-bottom: 0px;
+    }
+    .contact-right{
+        margin-top: 0px;
+        
+    }
+    .contact-main-container .contact-left{
+        margin-bottom: 0px;
+        margin-top: 0px;
+        font-size: 15px;
+    }
+    .parrafo{
+        font-size: 12px;
+    }
+    html {
+        width: 100%;
+    }
+    .profile-main-container img {
+        width: 250px;
+    }
 }
